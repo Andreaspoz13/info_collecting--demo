@@ -1,0 +1,15 @@
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/bin/Release/net6.0/collct_info_demo
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/bin/Release/net6.0/collct_info_demo.deps.json
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/bin/Release/net6.0/collct_info_demo.runtimeconfig.json
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/bin/Release/net6.0/collct_info_demo.dll
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/bin/Release/net6.0/collct_info_demo.pdb
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/obj/Release/net6.0/collct_info_demo.csproj.AssemblyReference.cache
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/obj/Release/net6.0/collct_info_demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/obj/Release/net6.0/collct_info_demo.AssemblyInfoInputs.cache
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/obj/Release/net6.0/collct_info_demo.AssemblyInfo.cs
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/obj/Release/net6.0/collct_info_demo.csproj.CoreCompileInputs.cache
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/obj/Release/net6.0/collct_info_demo.dll
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/obj/Release/net6.0/refint/collct_info_demo.dll
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/obj/Release/net6.0/collct_info_demo.pdb
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/obj/Release/net6.0/collct_info_demo.genruntimeconfig.cache
+/Users/n/Visual studio 2022/projects/collct_info_demo/collct_info_demo/obj/Release/net6.0/ref/collct_info_demo.dll
